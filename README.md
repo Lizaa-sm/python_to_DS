@@ -1,4 +1,4 @@
-# Hi everyone 
+# Hi everyone!
 
 In this repository, I’m sharing the basics of Python programming.  
 Everything I’ve learned so far is being compiled into these summaries.  
