@@ -1,5 +1,7 @@
 # Hi everyone!
 
+That's it, these are my summaries. I don't want to lose them, and I think it's only fair to allow those who need them to use them.
+
 In this repository, I’m sharing the basics of Python programming.  
 Everything I’ve learned so far is being compiled into these summaries.  
 
